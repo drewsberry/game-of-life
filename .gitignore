@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+# Vim swap files
+.*.swp
+
+# Backup files
+*~
+
+# Compiled binary
+game-of-life
